@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>酒店住客信用评分系统</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+            text-align: center;
+        }
+        .header {
+            background-color: #004aad;
+            color: white;
+            padding: 30px 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            border-radius: 8px;
+        }
+        .button {
+            display: inline-block;
+            padding: 15px 30px;
+            background-color: #ff6600;
+            color: white;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        .button:hover {
+            background-color: #e65c00;
+        }
+        .features {
+            text-align: left;
+            margin-top: 20px;
+        }
+        .features h3 {
+            color: #004aad;
+        }
+        .cta {
+            margin-top: 30px;
+            font-size: 20px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>酒店住客信用评分系统</h1>
+        <p>提升住客质量，减少运营风险，优化酒店管理</p>
+    </div>
+
+    <div class="container">
+        <h2>为什么选择我们的系统？</h2>
+        <div class="features">
+            <h3>📊 住客信用评分</h3>
+            <p>记录旅客行为，建立信用评分体系，帮助酒店筛选优质住客。</p>
+
+            <h3>🔍 评分查询 & 申诉</h3>
+            <p>旅客可查看评分，酒店可管理不良记录，保障公平性。</p>
+
+            <h3>🏆 高信用住客奖励</h3>
+            <p>高分旅客可享受房型升级、折扣等专属福利，提升客户粘性。</p>
+
+            <h3>🚀 降低酒店运营风险</h3>
+            <p>减少不文明行为、损坏设施和投诉纠纷，让酒店管理更轻松。</p>
+        </div>
+
+        <div class="cta">立即加入试点合作，提升您的酒店管理效率！</div>
+        <a href="https://your-signup-link.com" class="button">申请试用</a>
+    </div>
+
+</body>
+</html>
